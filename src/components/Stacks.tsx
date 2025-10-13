@@ -5,27 +5,27 @@ import { Lucide, Simple } from "./icons";
 // TODO : update stacks
 const stacks = [
   {
-    name: "Figma",
-    category: "Design",
-    icon: Simple.IconFigma,
-    url: "https://www.figma.com",
+    name: "Angular",
+    category: "Framework",
+    icon: Simple.IconAngular,
+    url: "https://angular.dev",
   },
   {
-    name: "Framer",
-    category: "Design",
-    icon: Simple.IconFramer,
-    url: "https://www.framer.com",
+    name: "Typescript",
+    category: "Frontend",
+    icon: Simple.IconTypescript,
+    url: "https://www.typescriptlang.org",
   },
   {
-    name: "Rive",
-    category: "Design",
-    icon: Simple.IconRive,
-    url: "https://rive.app",
+    name: "Go",
+    category: "Backend",
+    icon: Simple.IconGolang,
+    url: "https://go.dev",
   },
   {
-    name: "Arc",
-    category: "Browser",
-    icon: Simple.IconArc,
+    name: "Tauri",
+    category: "Framework",
+    icon: Simple.IconTauri,
     url: "https://arc.net",
   },
   {

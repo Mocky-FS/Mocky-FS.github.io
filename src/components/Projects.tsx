@@ -5,23 +5,17 @@ import { Lucide } from "./icons";
 // TODO : update projects
 const projects = [
   {
-    title: "astrolinkt",
-    description: "Astro template",
+    title: "Path Trade Tools",
+    description: "Tools for Path of Exile",
     icon: Lucide.IconImage,
-    url: "https://github.com/flamrdevs/astrolinkt",
+    url: "https://github.com/Mocky-FS/Path-Trade-Tool",
   },
   {
-    title: "astrovehnt",
-    description: "Astro template",
+    title: "Stock Overflow",
+    description: "Manage your stocks",
     icon: Lucide.IconImage,
-    url: "https://github.com/flamrdevs/astrovehnt",
-  },
-  {
-    title: "astrobuckt",
-    description: "Astro template",
-    icon: Lucide.IconImage,
-    url: "https://github.com/flamrdevs/astrobuckt",
-  },
+    url: "https://github.com/Mocky-FS/stockoverflow-front",
+  }
 ];
 
 export default () => {

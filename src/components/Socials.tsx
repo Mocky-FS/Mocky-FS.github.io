@@ -1,22 +1,17 @@
 import { cn } from "./ui/utils.ts";
-import { Simple } from "./icons";
+import { Simple, Lucide } from "./icons";
 
 // TODO : update socials
 const socials = [
   {
-    href: "https://github.com",
+    href: "https://github.com/Mocky-FS",
     name: "GitHub",
     icon: Simple.IconGitHub,
   },
   {
-    href: "https://x.com",
-    name: "X",
-    icon: Simple.IconX,
-  },
-  {
-    href: "https://www.youtube.com",
-    name: "Youtube",
-    icon: Simple.IconYoutube,
+    href: "https://www.linkedin.com/in/arnaud-solier",
+    name: "LinkedIn",
+    icon: Lucide.IconLinkedin,
   },
 ];
 

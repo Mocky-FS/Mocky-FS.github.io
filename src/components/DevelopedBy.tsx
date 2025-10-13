@@ -6,13 +6,13 @@ const DevelopedBy = () => {
       <span>
         Developed by{" "}
         <a
-          href="https://github.com/flamrdevs"
+          href="https://github.com/Mocky-FS"
           className="inline-block transition duration-300 hover:-translate-y-px outline-none hover:text-primary-10 focus-visible:text-primary-10"
           target="_blank"
           aria-label="Developer"
         >
           {" "}
-          flamrdevs
+          Mocky-FS
         </a>
       </span>
     </div>
