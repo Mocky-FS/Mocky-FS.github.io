@@ -5,16 +5,32 @@ import { Lucide, Simple } from "./icons";
 // TODO : update stacks
 const stacks = [
   {
-    name: "Angular",
-    category: "Framework",
-    icon: Simple.IconAngular,
-    url: "https://angular.dev",
+    name: "HTML",
+    category: "HTML5",
+    icon: Simple.IconHTML,
+    url: "https://developer.mozilla.org/en-US/docs/Web/HTML",
+  },{
+    name: "CSS",
+    category: "CSS3",
+    icon: Simple.IconCSS,
+    url: "https://developer.mozilla.org/en-US/docs/Web/CSS",
+  },{
+    name: "Javascript",
+    category: "Frontend",
+    icon: Simple.IconJavascript,
+    url: "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
   },
   {
     name: "Typescript",
     category: "Frontend",
     icon: Simple.IconTypescript,
     url: "https://www.typescriptlang.org",
+  },
+  {
+    name: "Angular",
+    category: "Framework",
+    icon: Simple.IconAngular,
+    url: "https://angular.dev",
   },
   {
     name: "Go",
@@ -29,16 +45,10 @@ const stacks = [
     url: "https://arc.net",
   },
   {
-    name: "Notion",
-    category: "Productivity",
-    icon: Simple.IconNotion,
-    url: "https://www.notion.so",
-  },
-  {
-    name: "Calendly",
-    category: "Calendar",
-    icon: Simple.IconCalendly,
-    url: "https://calendly.com",
+    name: "Trello",
+    category: "Planning",
+    icon: Simple.IconTrello,
+    url: "https://trello.com",
   },
 ];
 
