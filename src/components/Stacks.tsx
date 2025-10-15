@@ -42,7 +42,7 @@ const stacks = [
     name: "Tauri",
     category: "Framework",
     icon: Simple.IconTauri,
-    url: "https://arc.net",
+    url: "https://v2.tauri.app",
   },
   {
     name: "Trello",
