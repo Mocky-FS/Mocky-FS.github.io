@@ -8,7 +8,7 @@ const projects = [
     title: "Path Trade Tools",
     description: "Tools for Path of Exile",
     icon: Lucide.IconImage,
-    url: "https://github.com/Mocky-FS/Path-Trade-Tool",
+    url: "https://github.com/Mocky-FS/Path-Trade-Tools/tree/v2-development",
   },
   {
     title: "Stock Overflow",
