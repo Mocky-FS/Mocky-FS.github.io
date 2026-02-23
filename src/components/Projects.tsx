@@ -15,6 +15,12 @@ const projects = [
     description: "Manage your stocks",
     icon: Lucide.IconImage,
     url: "https://github.com/Mocky-FS/stockoverflow-front",
+  },
+  {
+    title: "TPE Monitor",
+    description: "Dashboard TUI pour le monitoring de terminaux de paiement",
+    icon: Lucide.IconImage,
+    url: "https://github.com/Mocky-FS/tpe-monitor",
   }
 ];
 
