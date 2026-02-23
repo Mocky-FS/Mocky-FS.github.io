@@ -18,7 +18,7 @@ const projects = [
   },
   {
     title: "TPE Monitor",
-    description: "Dashboard TUI pour le monitoring de terminaux de paiement",
+    description: "TUI dashboard for monitoring payment terminals",
     icon: Lucide.IconImage,
     url: "https://github.com/Mocky-FS/tpe-monitor",
   }
